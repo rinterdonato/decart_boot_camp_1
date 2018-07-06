@@ -1,13 +1,13 @@
-Admission Date:  [**2644-1-17**]              Discharge Date:   [**2644-1-23**]
+Admission Date:  [**2018-1-17**]              Discharge Date:   [**2018-1-23**]
  
-Date of Birth:  [**2553-5-26**]             Sex:   F
+Date of Birth:  [**2018-8-26**]             Sex:   F
  
 Service: MEDICINE
  
 Allergies: 
 Patient recorded as having No Known Allergies to Drugs
  
-Attending:[**First Name3 (LF) 2775**] 
+Attending:[Rich (LF) 2775**] 
 Chief Complaint:
 fall
  
@@ -16,10 +16,10 @@ n/a
 
  
 History of Present Illness:
-NF admit seen and appreciated.  Briefly this is a [**Age over 90 **] yo f w/ h/o 
+NF admit seen and appreciated.  Briefly this is a [122] yo f w/ h/o 
 lung ca w/ metastasis to brain on XRT, s/p fall at NH on Sun 
-eve. No LOC.  [**1-24**] lethargy, n/v,L arm weakness, sent to [**Hospital1 **] 
-[**Location (un) 579**] where she was noted to havv 3x3cm R posterior parietal 
+eve. No LOC.  [3-25] lethargy, n/v,L arm weakness, sent to [VAMC] 
+[Salt Lake City] where she was noted to havv 3x3cm R posterior parietal 
 bleed.  Tx to NSICU, started on dilantin (load) and decadron.  
 Deemed not a surgical candidate -> DNR/DNI.
 Noted to be guiac pos, +hct drop, coffee grounds on NGL.  GI 
@@ -33,7 +33,7 @@ CAD
 Lopresser 25mg tid
  
 Social History:
-lives at [**Location **], at baseline walks w/ walker.
+lives at [Ogden], at baseline walks w/ walker.
 speaks italian, some english
 
  
@@ -52,12 +52,12 @@ cbc:
     27.1  
 
 electrolytes:
-[**2644-1-17**] 04:51PM   SODIUM-137
-[**2644-1-17**] 04:51PM   ALBUMIN-3.2*
-[**2644-1-17**] 09:45AM   SODIUM-131* POTASSIUM-4.1 CHLORIDE-95* TOTAL 
+[**2018-1-17**] 04:51PM   SODIUM-137
+[**2018-1-17**] 04:51PM   ALBUMIN-3.2*
+[**2018-1-17**] 09:45AM   SODIUM-131* POTASSIUM-4.1 CHLORIDE-95* TOTAL 
 CO2-30* ANION GAP-10
-[**2644-1-17**] 03:57AM   CALCIUM-8.6 PHOSPHATE-3.9 MAGNESIUM-1.8
-[**2644-1-17**] 03:57AM   PHENYTOIN-10.2
+[**2018-1-17**] 03:57AM   CALCIUM-8.6 PHOSPHATE-3.9 MAGNESIUM-1.8
+[**2018-1-17**] 03:57AM   PHENYTOIN-10.2
 
 MRI:On diffusion-weighted images there is a small area of 
 restricted diffusion along the falx within the left 
@@ -88,7 +88,7 @@ this patient with known metastatic lung carcinoma to the brain.
 
  
 Brief Hospital Course:
-[**Age over 90 **] yo f s/p INH in R parietal region, evidence of UGIB, 
+[124] yo f s/p INH in R parietal region, evidence of UGIB, 
 transferred to medicine, w/ pupillary assymmetry but no evidence 
 of neglect, responding to commands.
 .
@@ -104,7 +104,7 @@ event.
 -will clarify 
 .
 2) GIB- drop in hct during admission and + NGL.  GI input 
-appreciated felt likely [**1-24**] stress ulceration.  Enteral 
+appreciated felt likely [1-19] stress ulceration.  Enteral 
 nutrition and PPI (usually oral) have been shown to reduce the 
 risk of ongoing bleeding. 
 -start TF's 10cc/h until nutrition recs
@@ -123,7 +123,7 @@ restraints.
 .
 6) code- dnr/dni
 
-On [**2644-1-19**] a family meeting was held with Oncology, Social Work, 
+On [2018-1-19] a family meeting was held with Oncology, Social Work, 
 Palliative Care Consult and primary medical team. At that time 
 the family decided to place comfort as the main goal of her 
 medical care. Her status was changed to "CMO".
@@ -163,10 +163,10 @@ Followup Instructions:
 n/a
 
  
-                             [**First Name11 (Name Pattern1) 335**] [**Last Name (NamePattern4) 336**] MD [**MD Number 2782**]
+                             [Roahl] [Dahl] MD [1234]
  
-Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4690**] MD [**MD Number 4691**] [**2644-1-22**] @ 1420
-Signed electronically by: DR. [**First Name8 (NamePattern2) 335**] [**Doctor Last Name **]
- on: MON [**2644-3-18**] 11:34 AM
+Completed by: [Rich] [Lastname] MD [0987] [2018-1-22] @ 1420
+Signed electronically by: DR. [Aaron] [Smith]
+ on: MON [2018-3-18] 11:34 AM
 (End of Report)
 
